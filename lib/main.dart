@@ -201,6 +201,7 @@ class HomeScreen extends StatelessWidget {
                             ),
                           ),
                           Text("Infected", style: kSubTextStyle),
+                          Text("Infected", style: kSubTextStyle),
                         ],
                       ),
                     ],
